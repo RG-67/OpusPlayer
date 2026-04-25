@@ -1,0 +1,5 @@
+-keep class com.opusplayer.model.** { *; }
+-keep class com.opusplayer.service.** { *; }
+-keepattributes *Annotation*
+-dontwarn okhttp3.**
+-dontwarn org.jsoup.**

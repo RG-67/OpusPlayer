@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\GTOEW-21\\.gradle\\daemon\\8.10.2\\com.opusplayer.app-mergeDebugResources-52:\\layout\\item_trending.xml",
+        "source": "C:\\Users\\GTOEW-21\\.gradle\\daemon\\8.10.2\\com.opusplayer.app-main-55:\\layout\\item_trending.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTOEW-21\\.gradle\\daemon\\8.10.2\\com.opusplayer.app-mergeDebugResources-52:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\GTOEW-21\\.gradle\\daemon\\8.10.2\\com.opusplayer.app-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-mergeDebugResources-52:/layout/item_track.xml",
+        "source": "com.opusplayer.app-main-55:/layout/item_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTOEW-21\\.gradle\\daemon\\8.10.2\\com.opusplayer.app-mergeDebugResources-52:\\layout\\activity_player.xml",
+        "source": "C:\\Users\\GTOEW-21\\.gradle\\daemon\\8.10.2\\com.opusplayer.app-main-55:\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTOEW-21\\.gradle\\daemon\\8.10.2\\com.opusplayer.app-mergeDebugResources-52:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\GTOEW-21\\.gradle\\daemon\\8.10.2\\com.opusplayer.app-main-55:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTOEW-21\\.gradle\\daemon\\8.10.2\\com.opusplayer.app-mergeDebugResources-52:\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\GTOEW-21\\.gradle\\daemon\\8.10.2\\com.opusplayer.app-main-55:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTOEW-21\\.gradle\\daemon\\8.10.2\\com.opusplayer.app-mergeDebugResources-52:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\GTOEW-21\\.gradle\\daemon\\8.10.2\\com.opusplayer.app-main-55:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTOEW-21\\.gradle\\daemon\\8.10.2\\com.opusplayer.app-mergeDebugResources-52:\\layout\\dialog_about.xml",
+        "source": "C:\\Users\\GTOEW-21\\.gradle\\daemon\\8.10.2\\com.opusplayer.app-main-55:\\layout\\dialog_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTOEW-21\\.gradle\\daemon\\8.10.2\\com.opusplayer.app-mergeDebugResources-52:\\layout\\item_track.xml",
+        "source": "C:\\Users\\GTOEW-21\\.gradle\\daemon\\8.10.2\\com.opusplayer.app-main-55:\\layout\\item_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTOEW-21\\.gradle\\daemon\\8.10.2\\com.opusplayer.app-mergeDebugResources-52:\\layout\\layout_mini_player.xml",
+        "source": "C:\\Users\\GTOEW-21\\.gradle\\daemon\\8.10.2\\com.opusplayer.app-main-55:\\layout\\layout_mini_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTOEW-21\\.gradle\\daemon\\8.10.2\\com.opusplayer.app-mergeDebugResources-52:\\layout\\dialog_sleep_timer.xml",
+        "source": "C:\\Users\\GTOEW-21\\.gradle\\daemon\\8.10.2\\com.opusplayer.app-main-55:\\layout\\dialog_sleep_timer.xml"
+    }
+]

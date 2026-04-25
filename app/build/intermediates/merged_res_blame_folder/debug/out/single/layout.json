@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.opusplayer.app-mergeDebugResources-52:/layout/item_trending.xml",
+        "source": "com.opusplayer.app-main-55:/layout/item_trending.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "com.opusplayer.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-mergeDebugResources-52:/layout/item_track.xml",
+        "source": "com.opusplayer.app-main-55:/layout/item_track.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-mergeDebugResources-52:/layout/activity_player.xml",
+        "source": "com.opusplayer.app-main-55:/layout/activity_player.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-mergeDebugResources-52:/layout/dialog_sleep_timer.xml",
+        "source": "com.opusplayer.app-main-55:/layout/dialog_sleep_timer.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-mergeDebugResources-52:/layout/fragment_search.xml",
+        "source": "com.opusplayer.app-main-55:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-mergeDebugResources-52:/layout/layout_mini_player.xml",
+        "source": "com.opusplayer.app-main-55:/layout/layout_mini_player.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-mergeDebugResources-52:/layout/fragment_settings.xml",
+        "source": "com.opusplayer.app-main-55:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-mergeDebugResources-52:/layout/fragment_home.xml",
+        "source": "com.opusplayer.app-main-55:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-mergeDebugResources-52:/layout/dialog_about.xml",
+        "source": "com.opusplayer.app-main-55:/layout/dialog_about.xml"
+    }
+]

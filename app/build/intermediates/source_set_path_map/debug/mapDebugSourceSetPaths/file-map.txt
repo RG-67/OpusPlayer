@@ -1,0 +1,56 @@
+com.opusplayer.app-slidingpanelayout-1.2.0-0 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\0020fc6ebee3daa21afc5987af673fa0\transformed\slidingpanelayout-1.2.0\res
+com.opusplayer.app-fragment-1.6.2-1 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\05ecb1f8ba0417fa7b1550c51d43ae44\transformed\fragment-1.6.2\res
+com.opusplayer.app-navigation-fragment-ktx-2.7.6-2 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\1431b885cb1d6265169161a0f07e9653\transformed\navigation-fragment-ktx-2.7.6\res
+com.opusplayer.app-core-ktx-1.12.0-3 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\1e46db1a0582edb574642c49f4516d32\transformed\core-ktx-1.12.0\res
+com.opusplayer.app-fragment-ktx-1.6.2-4 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\209cac433c802a611ab1254a06173c13\transformed\fragment-ktx-1.6.2\res
+com.opusplayer.app-material-1.11.0-5 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\24e31963abc671a741cf8dc37d934932\transformed\material-1.11.0\res
+com.opusplayer.app-cardview-1.0.0-6 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\2502b458973eb91f884cb51c3f58ca87\transformed\cardview-1.0.0\res
+com.opusplayer.app-emoji2-1.2.0-7 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\2c61b74b940fb6937f002e4b23a66fdb\transformed\emoji2-1.2.0\res
+com.opusplayer.app-transition-1.4.1-8 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\2dc6ccff6f04ae694fb37ea977aa1698\transformed\transition-1.4.1\res
+com.opusplayer.app-savedstate-ktx-1.2.1-9 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\30117a49c16bdee651714408be582e5f\transformed\savedstate-ktx-1.2.1\res
+com.opusplayer.app-lifecycle-viewmodel-savedstate-2.7.0-10 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\32922a27b07c84ab01ec33e8e776095b\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.opusplayer.app-activity-1.8.0-11 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\36b73abf17edccc686897633b9da4269\transformed\activity-1.8.0\res
+com.opusplayer.app-lifecycle-runtime-ktx-2.7.0-12 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\36f81372124fd274639947692701b865\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.opusplayer.app-lifecycle-viewmodel-ktx-2.7.0-13 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\3cc0db1c535c6e0ee4ddb28b63c43b77\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.opusplayer.app-media-1.7.0-14 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\420bf7804b7a5983293c76f3558d8be3\transformed\media-1.7.0\res
+com.opusplayer.app-constraintlayout-2.1.4-15 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\44a0620101e530c6be0849163c07a4b2\transformed\constraintlayout-2.1.4\res
+com.opusplayer.app-drawerlayout-1.1.1-16 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\456a3c7b799590d5b9f4f68b13cbc6e1\transformed\drawerlayout-1.1.1\res
+com.opusplayer.app-emoji2-views-helper-1.2.0-17 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\5487b1aab1bf7f05185737996b955161\transformed\emoji2-views-helper-1.2.0\res
+com.opusplayer.app-startup-runtime-1.1.1-18 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\57e94463a6e8477b8a69baa2a37c0e4b\transformed\startup-runtime-1.1.1\res
+com.opusplayer.app-core-runtime-2.2.0-19 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\5b3c1149b9457e7844aeaed74ec1d692\transformed\core-runtime-2.2.0\res
+com.opusplayer.app-activity-ktx-1.8.0-20 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\615a601e3bb6785c7e0b378f6b5fbb55\transformed\activity-ktx-1.8.0\res
+com.opusplayer.app-savedstate-1.2.1-21 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\64c9ed611b02bb8a360e98c845b15093\transformed\savedstate-1.2.1\res
+com.opusplayer.app-navigation-fragment-2.7.6-22 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\65d83ea32cd52aed03f75e742c113e5a\transformed\navigation-fragment-2.7.6\res
+com.opusplayer.app-lifecycle-runtime-2.7.0-23 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\682855c7c9b6800b3df6011bcf3d6c85\transformed\lifecycle-runtime-2.7.0\res
+com.opusplayer.app-swiperefreshlayout-1.1.0-24 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\68c5071b710dd3574316c3a2d6d8147f\transformed\swiperefreshlayout-1.1.0\res
+com.opusplayer.app-window-1.0.0-25 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\6cc40870b0d2df0f27cc2ba09166a859\transformed\window-1.0.0\res
+com.opusplayer.app-navigation-runtime-ktx-2.7.6-26 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\7ebbd2b6eec42d57f41a49883cdf2ba5\transformed\navigation-runtime-ktx-2.7.6\res
+com.opusplayer.app-customview-poolingcontainer-1.0.0-27 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\8f6a5c2be542bc8acbb028809680509b\transformed\customview-poolingcontainer-1.0.0\res
+com.opusplayer.app-lifecycle-process-2.7.0-28 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\931190ba8005c21630768d08a7871ba7\transformed\lifecycle-process-2.7.0\res
+com.opusplayer.app-navigation-ui-ktx-2.7.6-29 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\94331ee776d0254ebdf3a46a7a769dd0\transformed\navigation-ui-ktx-2.7.6\res
+com.opusplayer.app-lifecycle-livedata-2.7.0-30 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\972b8ddcbac59f01dbad2346d7663e5b\transformed\lifecycle-livedata-2.7.0\res
+com.opusplayer.app-profileinstaller-1.3.0-31 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\a06d639a6ecc68729cebf7c586a5d8de\transformed\profileinstaller-1.3.0\res
+com.opusplayer.app-navigation-runtime-2.7.6-32 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\a5ee366316d072641ab812a0ac007e82\transformed\navigation-runtime-2.7.6\res
+com.opusplayer.app-navigation-ui-2.7.6-33 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\a9ef1e129e9259ae29585f82e65145ca\transformed\navigation-ui-2.7.6\res
+com.opusplayer.app-recyclerview-1.3.2-34 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\b486cbf6c89ef4f4e93bf484eb761841\transformed\recyclerview-1.3.2\res
+com.opusplayer.app-lifecycle-livedata-ktx-2.7.0-35 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\be5f5627ef2a8e90fb293d8a6d771622\transformed\lifecycle-livedata-ktx-2.7.0\res
+com.opusplayer.app-navigation-common-ktx-2.7.6-36 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\d897da7aede1d30dfd29adb48f0f6f75\transformed\navigation-common-ktx-2.7.6\res
+com.opusplayer.app-lifecycle-viewmodel-2.7.0-37 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\d9d4626389146cafc82dd6ff441505bf\transformed\lifecycle-viewmodel-2.7.0\res
+com.opusplayer.app-lifecycle-livedata-core-2.7.0-38 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\dbf2dc9b68b94a18b8d0f275cb8aa108\transformed\lifecycle-livedata-core-2.7.0\res
+com.opusplayer.app-annotation-experimental-1.3.0-39 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\e178a9332d1e0b11f208f6e9d58c6fe6\transformed\annotation-experimental-1.3.0\res
+com.opusplayer.app-appcompat-1.6.1-40 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\e1cea218e74a4044b396288e7d4fed6c\transformed\appcompat-1.6.1\res
+com.opusplayer.app-glide-4.16.0-41 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\e988e8d73a5fced83a688d6835c6863f\transformed\glide-4.16.0\res
+com.opusplayer.app-viewpager2-1.1.0-beta02-42 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\f823f3ea481b17486b476a05bda892e9\transformed\viewpager2-1.1.0-beta02\res
+com.opusplayer.app-coordinatorlayout-1.1.0-43 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\fa5299859eec1f97d2d4002e91073a27\transformed\coordinatorlayout-1.1.0\res
+com.opusplayer.app-lifecycle-livedata-core-ktx-2.7.0-44 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\fade96c1fa2d756ff4108bd448511564\transformed\lifecycle-livedata-core-ktx-2.7.0\res
+com.opusplayer.app-lifecycle-service-2.7.0-45 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\fb643e6365774eab1d53527b4a40e222\transformed\lifecycle-service-2.7.0\res
+com.opusplayer.app-navigation-common-2.7.6-46 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\fec8dc5d3946fb4da23d482fc2f46d8e\transformed\navigation-common-2.7.6\res
+com.opusplayer.app-core-1.12.0-47 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\ff4a8f4a02de7857e160419b627cdc68\transformed\core-1.12.0\res
+com.opusplayer.app-appcompat-resources-1.6.1-48 C:\Users\GTOEW-21\.gradle\caches\8.10.2\transforms\ff8ea6fe907fc6bc056929f71cc60665\transformed\appcompat-resources-1.6.1\res
+com.opusplayer.app-pngs-49 D:\RITTIK\Opus Player\OpusPlayer4\OpusPlayer\app\build\generated\res\pngs\debug
+com.opusplayer.app-resValues-50 D:\RITTIK\Opus Player\OpusPlayer4\OpusPlayer\app\build\generated\res\resValues\debug
+com.opusplayer.app-packageDebugResources-51 D:\RITTIK\Opus Player\OpusPlayer4\OpusPlayer\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.opusplayer.app-packageDebugResources-52 D:\RITTIK\Opus Player\OpusPlayer4\OpusPlayer\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.opusplayer.app-debug-53 D:\RITTIK\Opus Player\OpusPlayer4\OpusPlayer\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.opusplayer.app-debug-54 D:\RITTIK\Opus Player\OpusPlayer4\OpusPlayer\app\src\debug\res
+com.opusplayer.app-main-55 D:\RITTIK\Opus Player\OpusPlayer4\OpusPlayer\app\src\main\res

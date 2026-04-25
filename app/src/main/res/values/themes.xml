@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.OpusPlayer" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_primary</item>
+        <item name="colorPrimaryVariant">@color/accent_secondary</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/accent_primary</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:colorBackground">@color/bg_primary</item>
+        <item name="colorSurface">@color/bg_secondary</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:windowBackground">@color/bg_primary</item>
+        <item name="android:statusBarColor">@color/bg_primary</item>
+        <item name="android:navigationBarColor">@color/bg_primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+
+    <style name="Theme.OpusPlayer.PlayerActivity" parent="Theme.OpusPlayer">
+        <item name="android:windowBackground">@color/bg_primary</item>
+        <item name="android:statusBarColor">@color/bg_primary</item>
+    </style>
+
+    <!-- Text Styles -->
+    <style name="TextStyle.Title" parent="">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextStyle.Subtitle" parent="">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextStyle.Accent" parent="">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/accent_primary</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">0.1</item>
+    </style>
+
+    <!-- Button Styles -->
+    <style name="ButtonStyle.Primary" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/accent_primary</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+        <item name="cornerRadius">24dp</item>
+    </style>
+
+    <!-- Bottom Navigation -->
+    <style name="BottomNavStyle" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="android:background">@color/bg_secondary</item>
+        <item name="itemIconTint">@color/nav_selector</item>
+        <item name="itemTextColor">@color/nav_selector</item>
+        <item name="labelVisibilityMode">labeled</item>
+    </style>
+
+</resources>

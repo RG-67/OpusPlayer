@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_skip_previous.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_skip_previous.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_equalizer.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_equalizer.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_bg_mini_player.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/bg_mini_player.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_help.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_help.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_music_note.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_music_note.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.opusplayer.app-main-55:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_bg_circle_btn.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/bg_circle_btn.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/layout_layout_mini_player.xml.flat",
+        "source": "com.opusplayer.app-main-55:/layout/layout_mini_player.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_pause.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_downloaded.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_downloaded.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_chevron_right.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_chevron_right.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_history.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_history.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_menu.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_download.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_download.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_repeat.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_repeat.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/layout_activity_main.xml.flat",
+        "source": "com.opusplayer.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_bg_download_bar.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/bg_download_bar.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/layout_item_trending.xml.flat",
+        "source": "com.opusplayer.app-main-55:/layout/item_trending.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/layout_fragment_search.xml.flat",
+        "source": "com.opusplayer.app-main-55:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_storage.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_storage.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.opusplayer.app-main-55:/mipmap-xxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_bg_song_selected.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/bg_song_selected.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_search.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/layout_dialog_about.xml.flat",
+        "source": "com.opusplayer.app-main-55:/layout/dialog_about.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_lyrics.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_lyrics.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "com.opusplayer.app-main-55:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_shuffle.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_shuffle.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_bg_recent_chip.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/bg_recent_chip.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_seekbar_thumb.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/seekbar_thumb.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "com.opusplayer.app-main-55:/mipmap-xxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.opusplayer.app-main-55:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_bg_progress_bar.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/bg_progress_bar.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_bg_bottom_nav.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/bg_bottom_nav.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_bg_circle_accent.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/bg_circle_accent.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_info.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/layout_fragment_home.xml.flat",
+        "source": "com.opusplayer.app-main-55:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "com.opusplayer.app-main-55:/mipmap-xhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_hd.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_hd.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_bg_search_bar.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/bg_search_bar.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_volume.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_volume.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_timer.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_timer.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_dark_mode.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_dark_mode.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.opusplayer.app-main-55:/mipmap-xxxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/xml_file_paths.xml.flat",
+        "source": "com.opusplayer.app-main-55:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/color_nav_selector.xml.flat",
+        "source": "com.opusplayer.app-main-55:/color/nav_selector.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "com.opusplayer.app-main-55:/mipmap-xxxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "com.opusplayer.app-main-55:/mipmap-xhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_skip_next.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_skip_next.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.opusplayer.app-main-55:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_arrow_forward.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_arrow_forward.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/layout_activity_player.xml.flat",
+        "source": "com.opusplayer.app-main-55:/layout/activity_player.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_tune.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_tune.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_settings.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_bg_card.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.opusplayer.app-main-55:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_home.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/layout_item_track.xml.flat",
+        "source": "com.opusplayer.app-main-55:/layout/item_track.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/navigation_nav_graph.xml.flat",
+        "source": "com.opusplayer.app-main-55:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_play.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/layout_dialog_sleep_timer.xml.flat",
+        "source": "com.opusplayer.app-main-55:/layout/dialog_sleep_timer.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/layout_fragment_settings.xml.flat",
+        "source": "com.opusplayer.app-main-55:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_chevron_down.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_chevron_down.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_bg_album_placeholder.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/bg_album_placeholder.xml"
+    },
+    {
+        "merged": "com.opusplayer.app-merged_res-53:/drawable_ic_close.xml.flat",
+        "source": "com.opusplayer.app-main-55:/drawable/ic_close.xml"
+    }
+]
