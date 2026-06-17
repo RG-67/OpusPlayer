@@ -92,6 +92,7 @@ drawable ic_storage
 drawable ic_timer
 drawable ic_tune
 drawable ic_volume
+drawable logo
 drawable seekbar_thumb
 id bottom_nav
 id btn_cancel_download

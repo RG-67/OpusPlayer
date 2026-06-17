@@ -3139,6 +3139,7 @@ drawable ic_storage
 drawable ic_timer
 drawable ic_tune
 drawable ic_volume
+drawable logo
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
 drawable m3_bottom_sheet_drag_handle
