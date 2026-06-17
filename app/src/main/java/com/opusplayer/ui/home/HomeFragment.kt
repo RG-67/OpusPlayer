@@ -72,6 +72,10 @@ class HomeFragment : Fragment() {
         binding.btnMenu.setOnClickListener {
             Toast.makeText(requireContext(), "Menu clicked", Toast.LENGTH_SHORT).show()
         }
+
+        binding.ivAvatar.setOnClickListener {
+            Toast.makeText(requireContext(), "Top home clicked", Toast.LENGTH_SHORT).show()
+        }
     }
 
     /** Load songs — if permission not granted yet, request it then load on next resume */

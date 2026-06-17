@@ -39,4 +39,5 @@
     <string name="timer_off">Timer Off</string>
     <string name="about_version">Version 1.0.0</string>
     <string name="about_description">Opus Player – Your Midnight Gallery of Music. Download, discover and play your favourite tracks offline.</string>
+    <string name="image_description">Image description</string>
 </resources>

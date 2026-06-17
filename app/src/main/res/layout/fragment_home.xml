@@ -56,7 +56,8 @@
                         android:src="@drawable/ic_home"
                         android:background="@drawable/bg_circle_btn"
                         android:padding="8dp"
-                        android:tint="@color/text_secondary" />
+                        android:tint="@color/text_secondary"
+                        android:contentDescription="@string/image_description"/>
 
                 </LinearLayout>
             </androidx.appcompat.widget.Toolbar>
