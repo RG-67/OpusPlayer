@@ -34,6 +34,7 @@ class MusicService : LifecycleService() {
         const val ACTION_NEXT = "action_next"
         const val ACTION_STOP = "action_stop"
 
+
         val currentSong = MutableLiveData<Song?>()
         val isPlaying = MutableLiveData<Boolean>(false)
         val currentPosition = MutableLiveData<Int>(0)
