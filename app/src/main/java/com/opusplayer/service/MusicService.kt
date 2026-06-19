@@ -53,6 +53,7 @@ class MusicService : LifecycleService() {
     private var isShuffleOn = false
     private var isRepeatOn = false
 
+
     inner class MusicBinder : Binder() {
         fun getService(): MusicService = this@MusicService
     }
