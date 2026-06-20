@@ -4100,6 +4100,7 @@ int string help_support 0x7f110041
 int string hide_bottom_view_on_scroll_behavior 0x7f110042
 int string high 0x7f110043
 int string icon_content_description 0x7f110044
+int string image_description 0x7f1100d0
 int string item_view_role_description 0x7f110045
 int string lossless 0x7f110046
 int string lyrics 0x7f110047

@@ -25,7 +25,7 @@ object PermissionHelper {
         }
     }
 
-    fun hasWritePermission(context: Context): Boolean {
+    private fun hasWritePermission(context: Context): Boolean {
         return if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q) {
             true // Scoped storage – no need for WRITE_EXTERNAL_STORAGE
         } else {
@@ -35,7 +35,7 @@ object PermissionHelper {
         }
     }
 
-    fun hasNotificationPermission(context: Context): Boolean {
+    private fun hasNotificationPermission(context: Context): Boolean {
         return if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
             ContextCompat.checkSelfPermission(
                 context, Manifest.permission.POST_NOTIFICATIONS

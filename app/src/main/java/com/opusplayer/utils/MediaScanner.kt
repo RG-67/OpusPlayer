@@ -6,6 +6,7 @@ import android.database.Cursor
 import android.net.Uri
 import android.os.Build
 import android.provider.MediaStore
+import android.util.Log
 import com.opusplayer.model.Song
 import java.io.File
 
@@ -91,6 +92,7 @@ object MediaScanner {
                     )
                 }
             }
+
         } catch (e: Exception) {
             e.printStackTrace()
         }

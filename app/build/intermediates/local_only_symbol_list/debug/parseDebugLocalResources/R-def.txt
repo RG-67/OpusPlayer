@@ -208,6 +208,7 @@ string filter_hint
 string grant_permission
 string help_support
 string high
+string image_description
 string lossless
 string lyrics
 string medium
