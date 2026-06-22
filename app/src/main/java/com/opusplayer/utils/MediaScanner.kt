@@ -50,8 +50,10 @@ object MediaScanner {
             MediaStore.Audio.Media.SIZE
         )
 
-        val selection = "${MediaStore.Audio.Media.IS_MUSIC} != 0 " +
-                "AND ${MediaStore.Audio.Media.DURATION} >= 30000"
+        /*val selection = "${MediaStore.Audio.Media.IS_MUSIC} != 0 " +
+                "AND ${MediaStore.Audio.Media.DURATION} >= 30000"*/
+
+        val selection = null
 
         try {
             val cursor: Cursor? = context.contentResolver.query(
@@ -95,6 +97,12 @@ object MediaScanner {
 
         } catch (e: Exception) {
             e.printStackTrace()
+        }
+
+        Log.d("MEDIA_SCAN", "Songs found = ${songs.size}")
+
+        songs.forEach {
+            Log.d("MEDIA_SCAN", "${it.title} -> ${it.path}")
         }
 
         return songs
